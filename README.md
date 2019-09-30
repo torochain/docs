@@ -1,23 +1,23 @@
 # docs
 
-#ToroChain
+# ToroChain
 
-##What is here in docs?
-[__The wiki__](https://github.com/torochain/docs/wiki/)
-
+## What is here in docs?
 Documents about ToroChain, its implementations, and more.
 
+[__The wiki__](https://github.com/torochain/docs/wiki/)
+
 We have:
-*
-*
-*
+-
+-
+-
 
-##Philosophy
+## Philosophy
 
-###How to get involved?
+### How to get involved?
 
-###Where to find us?
+### Where to find us?
 
-###Our thanks goes out to
+### Our thanks goes out to
 
-###License
+### License
