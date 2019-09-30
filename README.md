@@ -1,5 +1,3 @@
-# docs
-
 # ToroChain
 
 ## What is here in docs?
@@ -24,7 +22,7 @@ We have:
 ### Where to find us?
 
 * Chat: [Telegram](https://t.me/joinchat/HUAe5xFyZedkJAP_2YKVdg)
-[comment]: <> (### Our thanks goes out to)
+<!--- * [comment]: <> (### Our thanks goes out to) --->
 ### License
 
 Apache License v2.0.
