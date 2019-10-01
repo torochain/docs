@@ -17,12 +17,12 @@ We have:
 ## Philosophy
 
 
-### How to get involved?
+## How to get involved?
 
-### Where to find us?
+## Where to find us?
 
 * Chat: [Telegram](https://t.me/joinchat/HUAe5xFyZedkJAP_2YKVdg)
 <!--- * [comment]: <> (### Our thanks goes out to) --->
-### License
+## License
 
 Apache License v2.0.
